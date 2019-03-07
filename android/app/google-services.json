@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "608690459402",
+    "firebase_url": "https://postapp-7671c.firebaseio.com",
+    "project_id": "postapp-7671c",
+    "storage_bucket": "postapp-7671c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608690459402:android:9a0b4e4f5cb6ddc5",
+        "android_client_info": {
+          "package_name": "com.saraf.post"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "608690459402-unct2e0mbssbqt8rfkik97pdt37mtijf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5Ui4ls-cCQBvaG-JJv5fCxHpmUayHi-s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
