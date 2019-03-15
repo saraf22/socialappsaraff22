@@ -63,7 +63,7 @@ class Signup extends Component {
           />
           <TextInput
             style={styles.inputs}
-            placeholder="Full name"
+            placeholder="Full Names"
             keyboardType="email-address"
             onChangeText={fullName => this.setState({ fullName })}
           />

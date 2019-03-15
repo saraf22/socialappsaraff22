@@ -135,6 +135,8 @@ android {
 }
 
 dependencies {
+    implementation project(':appcenter-analytics')
+    implementation project(':appcenter')
     implementation project(':react-native-image-picker')
     implementation project(':react-native-vector-icons')
     implementation project(':react-native-gesture-handler')
@@ -147,7 +149,6 @@ dependencies {
    implementation "com.google.firebase:firebase-auth:16.1.0"
   implementation "com.google.firebase:firebase-firestore:17.1.5"
 implementation "com.google.firebase:firebase-storage:15.0.2"
-
 
 
 }
