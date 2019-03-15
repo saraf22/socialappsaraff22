@@ -10,16 +10,7 @@ import {
 } from "react-native";
 import ImagePicker from "react-native-image-picker";
 import firebase from "react-native-firebase";
-import {
-  Container,
-  Header,
-  Title,
-  Button,
-  Icon,
-  Left,
-  Right,
-  Body
-} from "native-base";
+import { Header, Title, Button, Icon, Left, Right, Body } from "native-base";
 const options = {
   title: "Select Avatar",
   customButtons: [{ name: "fb", title: "Choose Photo from Facebook" }],
