@@ -60,7 +60,7 @@ export class CreatePost extends Component {
         imageData: response
       });
       if (response.didCancel) {
-        console.log("User cancelled image picker");
+        console.log("User cancelled picker");
       } else if (response.error) {
         console.log("ImagePicker Error: ", response.error);
       } else if (response.customButton) {
